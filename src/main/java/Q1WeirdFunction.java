@@ -3,7 +3,6 @@
 public class Q1WeirdFunction {
 
     public static int fRecursive(int n) {
-        // TODO: Implement the recursive function
         if (n < 3) {
             return n;
         }
@@ -11,7 +10,6 @@ public class Q1WeirdFunction {
     }
 
     public static int fIterative(int n) {
-        // TODO: Implement the iterative function
         if (n < 3) {
             return n;
         }
